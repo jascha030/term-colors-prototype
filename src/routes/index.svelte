@@ -1,9 +1,8 @@
 <script>
+  import Sidebar from "../components/Menu/Sidebar.svelte";
 </script>
 
-<div class="bg-slate-500">
-  <h1 class="text-3xl font-bold underline">
-    Hello world!
-  </h1>
+<div class="w-full h-full bg-slate-100">
+  <Sidebar />
 </div>
 
