@@ -11,7 +11,7 @@
 
 <style>
   #sidebar {
-    @apply h-full bg-slate-500 flex-col;
+    @apply h-full bg-background flex-col;
   }
 </style>
 
